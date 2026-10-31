@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsaipicket8u.github.io/sz-f34/sitemap.xml
